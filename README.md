@@ -7,9 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielfilho0/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pointplusx)
 
-![Daniel Filho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niel12&show_icons=true&theme=dracula)
+![Daniel Filho's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFilho09&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niel12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFilho09)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que utilizo 🖥️
 
